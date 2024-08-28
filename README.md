@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**DonalMathew/DonalMathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Customised Window Managers
+- [Dynamic Window Manager](https://github.com/donalmathew/my_dwm)
+- [i3 Window Manager](https://github.com/donalmathew/my_i3wm)
 
-Here are some ideas to get you started:
+## Learn with me (ongoing)
+- [Python](https://github.com/donalmathew/learn_python_with_me)
+- [Git](https://github.com/donalmathew/learn_git_with_me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Find KTU lab programs inside:
+- [Combined Lab Programs](https://github.com/donalmathew/ktu_lab_programs) 
+
+
