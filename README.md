@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My Customisations on Window Managers
+## My Customisations on Linux Window Managers
 - [Dynamic Window Manager](https://github.com/donalmathew/my_dwm)
 - [i3 Window Manager](https://github.com/donalmathew/my_i3wm)
 
